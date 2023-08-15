@@ -1,6 +1,6 @@
 import React from 'react'
 import vg from "../img/hero-img.svg"
-import Companies from './companies'
+import Companies from './Companies'
 import Service from './Service'
 function Home() {
   return (
